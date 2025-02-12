@@ -49,11 +49,24 @@ The dataset used in this project contains several features related to student me
    - Study satisfaction and healthy lifestyle habits (good sleep and diet) play a role in reducing depression risk.
    - The field of study (degree choice) was not as impactful as overall academic pressure.
 
-## Results
+## Summary of Results
 
-- **XGBoost** and **LightGBM** models were used to predict student depression with high accuracy.
-- The **feature importance analysis** revealed that financial stress, academic pressure, and sleep duration are the most important factors.
-- Recommendations were made for educational institutions to focus on financial support, academic workload management, and student well-being programs to reduce the incidence of depression.
+### 1. **What factors in a student’s academic environment increase the likelihood of them experiencing depression?**
+   - Our analysis revealed that financial stress, academic pressure, and sleep duration are the most significant factors affecting the likelihood of depression among students. Students facing financial difficulties and high academic stress, combined with insufficient sleep, are at a higher risk of experiencing mental health issues.
+
+### 2. **Does the pressure from pursuing certain degree programs affect students’ mental health?**
+   - While the specific degree chosen by a student was not a significant factor in predicting depression, the level of academic pressure was. This finding suggests that the overall workload and expectations from academic programs are more likely to contribute to depression than the particular field of study.
+
+### 3. **How do students’ lifestyle choices and overall health influence their satisfaction and ability to manage academic pressure?**
+   - Our analysis revealed that financial stress, academic pressure, and sleep duration are the most significant factors affecting the likelihood of depression among students. Students facing financial difficulties and high academic stress, combined with insufficient sleep, are at a higher risk of experiencing mental health issues.
+
+## Blogpost
+
+- The findings of the notebook are showcased in the following blogpost: https://medium.com/@cyberspartan228/analyzing-student-depression-a-data-science-perspective-0330c9c1b7e1
+
+## Acknowledgements
+
+The used in this notebook was retrieved from the open-source datasest provide by Kaggle: https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset
 
 ## Installation
 
