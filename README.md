@@ -107,6 +107,7 @@ To run the notebook and reproduce the analysis, follow these steps:
 .
 ├── DS_Project_1.ipynb        # Main notebook containing data analysis and modeling
 ├── README.md                 # This README file
+├── Student Depression Dataset.csv   # The Dataset used in the notebook.
 ├── requirements.txt          # Python package dependencies
 └── data/                     # Data files (if applicable)
 ```
